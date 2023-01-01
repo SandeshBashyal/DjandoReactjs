@@ -1,2 +1,2 @@
 npx create-react-app blog
-npm run build
+npm run build or npm start
